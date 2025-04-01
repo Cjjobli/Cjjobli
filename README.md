@@ -6,13 +6,13 @@
 
 <img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
 
-- 🔭 I’m currently working on **Note Pulse**
+- 🔭 I’m currently working on **Note Pulse & Muselator**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning about **React, Kotlin, Cybersecurity**
 
 - 📫 Email: **Cjjobli1@gmail.com**
 
-- ⚡ Fun fact **I make art**
+- ⚡ Fun fact **I like to create art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
